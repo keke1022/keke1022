@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keke1022&label=Profile%20views&color=0e75b6&style=flat" alt="keke1022" /> </p>
 
-- 🌱 I’m currently learning **OS and PL**
+- 🌱 I’m currently learning **MLSys and Distributed Systems**
 
-- 📝 I regularly write articles on [https://keke1022.site](https://keke1022.site)
+- 📝 I regularly write articles on [keke's diary](https://keke1022.github.io/blog-diary/), also my [portfolio](https://keke1022.github.io/portfolio/)
 
 - 📫 How to reach me **kekeliu@umich.edu**
 
-- 📄 Know about my experiences [https://keke1022.site/r/resume](https://keke1022.site/r/resume)
+- 📄 Know about my experiences [portfolio](https://keke1022.github.io/portfolio/)
 
 - ⚡ Fun fact **I love video games :)**
 
