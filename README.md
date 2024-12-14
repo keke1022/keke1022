@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [portfolio](https://keke1022.github.io/portfolio/)
 
-- ⚡ Fun fact **I love video games :)**
+- ⚡ Fun fact **I am passionate about photography and enjoy capturing unique perspectives and moments :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
