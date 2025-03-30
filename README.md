@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MLSys and Distributed Systems**
 
-- 📝 I regularly write articles on [keke's diary](https://keke1022.github.io/blog-diary/), also my [portfolio](https://keke1022.github.io/portfolio/)
+- 📝 I regularly write articles on [keke's diary](https://keke-hub.com/blog-diary/), also my [portfolio](https://keke-hub.com/portfolio/)
 
 - 📫 How to reach me **kekeliu@umich.edu**
 
-- 📄 Know about my experiences [portfolio](https://keke1022.github.io/portfolio/)
+- 📄 Know about my experiences [portfolio](https://keke-hub.com/portfolio/)
 
 - ⚡ Fun fact **I am passionate about photography and enjoy capturing unique perspectives and moments :)**
 
